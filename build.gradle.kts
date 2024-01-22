@@ -1,6 +1,7 @@
 plugins {
-    kotlin("jvm") version "1.9.0"
+    kotlin("jvm") version "1.9.10"
     application
+    id("org.jetbrains.dokka") version "1.9.10"
 }
 
 group = "org.example"
@@ -12,7 +13,14 @@ repositories {
 
 dependencies {
     testImplementation(kotlin("test"))
+    testImplementation("org.junit.jupiter:junit-jupiter:5.8.1")
+    dokkaHtmlPlugin("org.jetbrains.dokka:kotlin-as-java-plugin:1.9.10")
 }
+
+tasks.dokkaHtml.configure {
+    outputDirectory.set(project.layout.buildDirectory.dir("dokka"))
+}
+
 
 tasks.test {
     useJUnitPlatform()
