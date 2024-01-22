@@ -1,0 +1,16 @@
+$dokka.format:html-v1
+$dokka.linkExtension:html
+$dokka.location:////PointingToDeclaration/subir-a-github/[root]/index.html
+$dokka.location:/MainKt///PointingToDeclaration/subir-a-github/[root]/-main-kt/index.html
+$dokka.location:/MainKt/calcularMitjana/#kotlin.Array[kotlin.Array[kotlin.Int]]/PointingToDeclaration/subir-a-github/[root]/-main-kt/calcular-mitjana.html
+$dokka.location:/MainKt/imprimirMatriz/#kotlin.Array[kotlin.Array[kotlin.Char]]/PointingToDeclaration/subir-a-github/[root]/-main-kt/imprimir-matriz.html
+$dokka.location:/MainKt/imprimirMatriz/#kotlin.Array[kotlin.Array[kotlin.Int]]/PointingToDeclaration/subir-a-github/[root]/-main-kt/imprimir-matriz.html
+$dokka.location:/MainKt/main/#/PointingToDeclaration/subir-a-github/[root]/-main-kt/main.html
+$dokka.location:/MainKt/mitajanaDe5/#kotlin.Array[kotlin.Array[kotlin.Int]]#kotlin.Int/PointingToDeclaration/subir-a-github/[root]/-main-kt/mitajana-de5.html
+$dokka.location:/MainKt/modificarPer_/#kotlin.Array[kotlin.Array[kotlin.Char]]#kotlin.Char/PointingToDeclaration/subir-a-github/[root]/-main-kt/modificar-per_.html
+$dokka.location:/MainKt/quants5HiHa/#kotlin.Array[kotlin.Array[kotlin.Int]]/PointingToDeclaration/subir-a-github/[root]/-main-kt/quants5-hi-ha.html
+$dokka.location:/MainKt/retornarChar/#kotlin.Array[kotlin.Array[kotlin.Char]]#kotlin.Char/PointingToDeclaration/subir-a-github/[root]/-main-kt/retornar-char.html
+$dokka.location:/MainKt/sumaMatrizInt/#kotlin.Array[kotlin.Array[kotlin.Int]]/PointingToDeclaration/subir-a-github/[root]/-main-kt/suma-matriz-int.html
+$dokka.location:/MainKt/sumarMajor5/#kotlin.Array[kotlin.Array[kotlin.Int]]/PointingToDeclaration/subir-a-github/[root]/-main-kt/sumar-major5.html
+
+
